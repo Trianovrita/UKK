@@ -70,7 +70,7 @@
                       
                       <td>
                         <!--button-->
-                        <a href="admin.php?url=edit_petugas&id=<?php echo $data['id_petugas']; ?>" class="btn btn-info btn-icon-split">
+                        <a href="admin.php?url=edit_petugas&id=<?php echo $data['id_petugas']; ?>" class="btn btn-primary btn-icon-split">
                           <span class="icon text-white-50">
                           <i class="fas fa-edit"></i>
                           </span>

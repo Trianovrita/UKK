@@ -63,7 +63,7 @@
                       	                        <!--button--> 
                         <a href="?url=detail_pengaduan&id=<?php echo $data['id_pengaduan']; ?>" class="btn btn-primary btn-icon-split">
                           <span class="icon text-white-50">
-                          <i class="fas fa-info"></i>
+                          <i class="fas fa-primary"></i>
                           </span>
                           <span class="text">Detail</span>
                         </a>
